@@ -1,0 +1,29 @@
+@import "variables";
+
+// Load Bootstrap variables and mixins
+@import "~bootstrap/scss/bootstrap";
+
+// Load miny components
+@import "nav";
+//@import "masthead";
+//@import "ads";
+//@import "content";
+//@import "skiplink";
+@import "sidebar";
+//@import "footer";
+//@import "component-examples";
+//@import "buttons";
+//@import "callouts";
+//@import "examples";
+//@import "browser-bugs";
+//@import "brand";
+//@import "colors";
+//@import "clipboard-js";
+
+@import "forum";
+
+// Load docs dependencies
+
+//@import "syntax";
+//@import "anchor";
+//@import "algolia";

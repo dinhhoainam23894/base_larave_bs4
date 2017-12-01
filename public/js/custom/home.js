@@ -1,0 +1,1 @@
+function hello(A){alert("AAAA"),alert("AAAA"),alert("AAAA"),alert("AAAA"),alert("AAAA"),alert("AAAA")}alert("AAAA"),document.getElementsByName("a");
